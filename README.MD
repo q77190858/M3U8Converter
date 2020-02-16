@@ -13,7 +13,7 @@
 ![main_page.jpeg][1]  ![scan_convert_page.jpeg][2]  ![setting_page.jpeg][3]  ![about_page.jpeg][4]
 
 # 下载地址  
-[github](https://github.com/q77190858/M3U8Converter/raw/master/M3U8批量转换.apk)  下载  
+[github](https://raw.githubusercontent.com/q77190858/M3U8Converter/master/M3U8%E6%89%B9%E9%87%8F%E8%BD%AC%E6%8D%A2.apk)  下载  
 [百度网盘](https://pan.baidu.com/s/1ljS-_LM5ZnGNPi-J8L9_lg)  密码: fbn5
 
 # 发布网址
