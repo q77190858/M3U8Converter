@@ -14,8 +14,8 @@
 ![main_page.jpeg][1]  ![scan_convert_page.jpeg][2]  ![setting_page.jpeg][3]  ![about_page.jpeg][4]
 
 # 下载地址  
-[github](https://raw.githubusercontent.com/q77190858/M3U8Converter/master/M3U8%E6%89%B9%E9%87%8F%E8%BD%AC%E6%8D%A2.apk)  下载  
-[百度网盘](https://pan.baidu.com/s/1ljS-_LM5ZnGNPi-J8L9_lg)  密码: fbn5
+[github](https://raw.githubusercontent.com/q77190858/M3U8Converter/master/M3U8%E6%89%B9%E9%87%8F%E8%BD%AC%E6%8D%A2v1.1.apk)  下载  
+[百度网盘](https://pan.baidu.com/s/1ToiBlSxewj46QHSx_EjaTg)  密码: 1234
 
 # 发布网址
 
@@ -29,7 +29,7 @@ https://github.com/q77190858/M3U8Converter
 
 有问题欢迎issue反馈，喜欢的可以在我的博客赞赏支持一下
 
-  [1]: main_page.jpeg
-  [2]: scan_convert_page.jpeg
-  [3]: setting_page.jpeg
-  [4]: about_page.jpeg
+  [1]: main_page.jpg
+  [2]: scan_convert_page.jpg
+  [3]: setting_page.jpg
+  [4]: about_page.jpg
